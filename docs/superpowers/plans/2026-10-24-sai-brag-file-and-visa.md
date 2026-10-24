@@ -16,6 +16,7 @@
 - Add a plan to gather metrics on his work, so his improvement and the difference his work made to the company can be shown.
 - Visa route: likely Global Talent, a tech route or a founder route. Not chosen yet. Sai is an Indian national.
 - Split the work into steps.
+- Later answers (Georgia, 24 Oct, full list in `sources/georgia-notes-2026-10-24.md`): Sai is on a Skilled Worker visa and wants one his employer does not pay for; he is 28; about 5 years in the UK; salary unknown. Build first, one list of questions to Sai at the end. Legal visa detail comes later but is recorded now. Whether Wolf work can be shown publicly gets its own flag on every Wolf entry.
 
 ## Global Constraints
 
@@ -90,7 +91,7 @@ Expected: no output.
 - Produces: `brag-file-sai.md` with headings `# At Wolf`, `# Outside Wolf`, `# Questions for Sai`. Each entry has a `## <name>` heading.
 
 - [ ] **Step 1:** Copy the front matter, "Rules for any AI reading this file", Fields table and Index pattern from Georgia's file. Change "Georgia" to "Sai". Add a line to the purpose: used for presenting to his boss, job applications and visa evidence.
-- [ ] **Step 2:** Add five fields to the Fields table and to every entry, after `last_updated`: `source`, `proof` (link, letter, recording, number or none), `who_can_vouch`, `status` (confirmed by Sai, or ⚠️ to confirm), `date`.
+- [ ] **Step 2:** Add six fields to the Fields table and to every entry, after `last_updated`: `source`, `proof` (link, letter, recording, number or none), `who_can_vouch`, `shareable` (can it be shown publicly), `status` (confirmed by Sai, on Sai's CV, or ⚠️ to confirm), `date`.
 - [ ] **Step 3:** Write the "At Wolf" entries, in this order: Claude Vision order ingestion agent; Wolf CRM; Lupa; Wolf BI Agent; Data platform and ELT pipelines; £54k postage saving; Wolf CMS; Stakeholder and board work. Use section 8 values exactly.
 - [ ] **Step 4:** Write the "Outside Wolf" entries: olist-project-agentic; Circular Threads; ivee MVP and Electron app; Public talk (August 2026); Flax × Founders Factory × AWS sprint; Community and events (`weight: minor`); Bytes & Beyond (`weight: minor`, ⚠️). Prompt Library and Bug Burger Joint go in only as ⚠️ minor entries.
 - [ ] **Step 5:** Add an "Employer feedback" minor entry with the interview table, tagged ⚠️ consent needed.
