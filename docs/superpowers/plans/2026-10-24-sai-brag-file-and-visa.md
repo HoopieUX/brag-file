@@ -173,6 +173,13 @@ Expected: no output. Every criterion row has a source.
 
 ---
 
+## The brag file will evolve
+
+- The Task 2 format is version 1, not final.
+- After Tasks 3, 4 and 5, check what each use actually needs (work and presenting to his boss, interviews, the chosen visa route) and change the format to fit. For example, new fields, a different order, or a separate view per use.
+- Record each format change and why at the top of `brag-file-sai.md`.
+- This is why the auto-add skill waits: it should only be built once the format settles.
+
 ## Out of scope for now
 
 - A skill that adds new wins to the brag file automatically. Only once the entry format is stable (after Task 2 is signed off).
