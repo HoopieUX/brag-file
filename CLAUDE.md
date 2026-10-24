@@ -24,7 +24,7 @@ Georgia is the user. Sai is the subject. Georgia does not want to go back and fo
 | `sources/README.md` | Lists all sources, and what Sai's CV adds |
 | `docs/superpowers/plans/2026-10-24-sai-brag-file-and-visa.md` | The step-by-step plan. Follow it in order. |
 
-Sai's CV (Resume_1.pdf) and Georgia's own experience file are **not** in git; they hold personal details. Ask Georgia to attach them if needed.
+Sai's CV is in `sources/Resume_1.pdf`. It contains his personal email, so the repo must stay private and the email must never be copied into any other file. Georgia's own experience file is **not** in git; ask her to attach it if needed.
 
 ## Hard rules
 

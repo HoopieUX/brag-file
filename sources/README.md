@@ -5,7 +5,7 @@ Where every fact in Sai's brag file comes from.
 | Source | In git? | What it is |
 |---|---|---|
 | `handoff-sai-1.md` | Yes | Handoff #1 (2026-10-24), built from Sai's job-hunt chat (18 Jun to 21 Oct 2026). Section 8 is the exact data. |
-| Resume_1.pdf | No | Sai's CV, shared by Georgia on 2026-10-24. Kept out of git because it holds his contact details. |
+| `Resume_1.pdf` | Yes | Sai's CV, shared by Georgia on 2026-10-24. Contains his personal email, so the repo must stay private. |
 | georgia-experience-file.md | No | Georgia's own experience file. Used for the format only. Kept out of git because it is Georgia's data. |
 
 ## What Resume_1.pdf adds or changes
