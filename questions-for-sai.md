@@ -47,7 +47,7 @@ Send this as one list. Short answers are fine.
 24. Where does Wolf keep each of these: AWS bills, old SaaS invoices, carrier invoices, agent logs, CRM login data?
 25. Who did the manual order processing and manual reporting before? Could they confirm the old times?
 26. Which numbers can you share outside Wolf, and which need permission?
-27. Would the CEO, CFO and directors write letters?
+27. Could you book short catch-ups with the CEO, CFO, directors and a few daily users to understand the impact of your work (see section 3 of the impact plan)? Would they be OK with you using their numbers?
 
 ---
 

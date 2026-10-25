@@ -11,11 +11,17 @@ last_updated: 2026-10-24
 **Why it matters:** right now most of his numbers are on his CV but unproven, and some are estimates. A measured number with a source beats a big number nobody can check, for his boss, for interviews and for a visa.
 
 **Steps:**
-1. Fix the estimates first (list below).
-2. Fill in the table for each project, one at a time.
-3. Ask for the letters.
-4. Log new wins monthly with the template.
-5. Send his boss the one-page update each quarter.
+1. Fix the estimates first (section 1).
+2. Fill in the table for each project, one at a time (section 2).
+3. Hold short conversations with the people his work affects (section 3). Use them to check numbers and gather data, not to ask for favours.
+4. Log new wins monthly with the template (section 4).
+5. Send his boss the one-page update each quarter (section 5).
+6. Optional: ask for a short letter from anyone who has already said something useful (section 6).
+
+**Three tags, used everywhere.** Never present one as another.
+- **[measured]:** from logs, invoices, usage data or a test he ran. He can show the source.
+- **[reported]:** what someone told him. Name them and the date.
+- **[estimated]:** his own guess. Say so.
 
 ⚠️ The "where to look" column lists likely places, not known ones. Sai knows where Wolf keeps its data; he should correct it.
 
@@ -55,22 +61,56 @@ These numbers are on his CV or in his stories, but are estimates or have more th
 
 ---
 
-## 3. Letters to ask for
+## 3. Impact conversations
 
-These help with his boss, with references, and later with a visa.
+**What to do:** a 20 to 30 minute chat with each person his work affects. The aim is to understand the impact from their side and gather data, so what he tells the CEO or his manager is backed up.
 
-- [ ] **CEO:** what Sai built, what it changed for the business, how he compares to others in similar roles.
-- [ ] **CFO or finance:** the confirmed CRM and postage savings.
-- [ ] **Marketing Director and Product Director:** the CRM, and how he worked with them.
-- [ ] **A daily user:** what the CRM or Lupa changed in their week.
+**Why it matters:** numbers he has measured alone only show half the picture. What people say, with names and dates, shows the rest. And he never has to present beyond what he can prove, because every claim carries its tag.
 
-**How to ask:** give each person a short list of facts to check, so the letter is quick to write and accurate. Do not write it for them.
+**Steps:**
+1. Book the chat as a normal catch-up: "I'm pulling together what the CRM / Lupa / order agent has changed, and I'd like your view." No pitch, no favour asked.
+2. Ask the questions below. Take notes with the template.
+3. Check anything they say against his own data (logs, invoices) before it goes in the boss update. If it matches, tag it [measured]. If not, tag it [reported].
+4. Ask one thing at the end: "Is it OK if I use your numbers in my update to [CEO / manager]?" Note the answer.
+
+| Who | Why them | What to understand |
+|---|---|---|
+| CEO | Approved the postage fix; sees the business view | What matters most to the business now; what they would want to see in an update |
+| CFO or finance | Owns the money numbers | Confirmed CRM and postage savings; which numbers they trust |
+| Marketing Director | Asked for campaign attribution in the CRM | What the CRM changed for marketing |
+| Product Director | Asked for mandatory data capture at order entry | What changed in how products and orders are handled |
+| Sales reps (3 to 5) | Use the CRM daily | Time per task now vs before; what still annoys them |
+| Whoever did the manual order processing | Knows the real "before" | How long it took, how often, how many errors |
+| Finance, Sales and Ops users of Lupa | Ask it questions | What they used to wait for; how often they use it now |
+| The 4 offshore analysts | Report to him | What manual work has gone; what is still manual |
+
+**Questions to ask (pick the ones that fit):**
+- What did this take before? How long, how often, who did it?
+- How long does it take now?
+- What would break or slow down if it went away?
+- What still doesn't work well?
+- What's the number you would trust if the CEO asked you?
+- Is there anything you would show someone to prove it helped?
+
+**Notes template (one per conversation):**
+
+```
+## [Person, role], [date]
+- project:
+- what they said: (their words where possible)
+- numbers they gave: (before → after, with units)
+- tag: reported
+- what I can check this against: (log, invoice, usage data)
+- result of the check: measured / not matching / not checked yet
+- OK to use in my update to [CEO / manager]: yes / no / ask later
+- OK to use outside Wolf: yes / no / ask later
+```
 
 ---
 
 ## 4. Monthly "log a win" template
 
-Copy this into the brag file's Questions or a notes file at the end of each month. It matches the brag file fields.
+Copy this into a notes file at the end of each month. It matches the brag file fields.
 
 ```
 ## [Win name]
@@ -78,7 +118,8 @@ Copy this into the brag file's Questions or a notes file at the end of each mont
 - project: (which brag file entry)
 - what changed: (one sentence)
 - number: (before → after, with units)
-- how measured: (source: logs, invoices, survey)
+- tag: measured / reported / estimated
+- how measured: (source: logs, invoices, a conversation with [name])
 - proof: (screenshot, link, email; where it is saved)
 - who_can_vouch:
 - shareable: yes / no / ask Wolf
@@ -89,7 +130,7 @@ Copy this into the brag file's Questions or a notes file at the end of each mont
 
 ## 5. One-page update for his boss
 
-Send quarterly. Keep it to one page.
+Send quarterly. Keep it to one page. Every number carries its tag, so nobody mistakes an estimate for a measured result.
 
 ```
 Subject: Data and AI update, [quarter]
@@ -98,9 +139,9 @@ Headline
 - [The single biggest result, with the number]
 
 Results this quarter
-- [Project]: [before → after]. Source: [where the number came from]
-- [Project]: [before → after]. Source:
-- [Project]: [before → after]. Source:
+- [Project]: [before → after] [measured / reported by NAME / estimated]. Source: [where the number came from]
+- [Project]: [before → after] [tag]. Source:
+- [Project]: [before → after] [tag]. Source:
 
 What I learnt / what broke
 - [One line]
@@ -112,3 +153,17 @@ Next quarter
 What I need from you
 - [Decision, access or support]
 ```
+
+---
+
+## 6. Optional: short letters
+
+**What to do:** after a conversation where someone has already said something useful, ask if they would put it in two or three lines.
+
+**Why it matters:** letters help with references, and later with a visa. But they only work well when the person has already told him the facts in the conversation. Do not send cold requests.
+
+**Steps:**
+1. Only ask people who said something specific and positive in section 3.
+2. Send them the notes from the chat as a reminder of what they said, so the letter is quick and accurate. Do not write it for them.
+3. Ask whether Sai may use it outside Wolf. Record the answer in the brag file's `shareable` field.
+4. Save the letter and note its date and author in the entry's `proof` and `who_can_vouch` fields.
