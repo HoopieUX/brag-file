@@ -13,7 +13,7 @@ last_updated: 2026-10-24
 **Steps:**
 1. Fix the estimates first (section 1).
 2. Fill in the table for each project, one at a time (section 2).
-3. Hold short conversations with the people his work affects (section 3). Use them to check numbers and gather data, not to ask for favours.
+3. Hold short conversations with the people his work affects (section 3). The point is to gain insight: how his work lands for them, and what the real numbers are. Then he presents what he learnt to the company, with every claim tagged.
 4. Log new wins monthly with the template (section 4).
 5. Send his boss the one-page update each quarter (section 5).
 6. Optional: ask for a short letter from anyone who has already said something useful (section 6).
@@ -63,12 +63,12 @@ These numbers are on his CV or in his stories, but are estimates or have more th
 
 ## 3. Impact conversations
 
-**What to do:** a 20 to 30 minute chat with each person his work affects. The aim is to understand the impact from their side and gather data, so what he tells the CEO or his manager is backed up.
+**What to do:** a 20 to 30 minute chat with each person his work affects. The aim is to gain insight into the impact from their side, check numbers and gather data. He then presents what he found to the company (his manager, the CEO, the board), so the update is built on evidence, not on his say-so.
 
-**Why it matters:** numbers he has measured alone only show half the picture. What people say, with names and dates, shows the rest. And he never has to present beyond what he can prove, because every claim carries its tag.
+**Why it matters:** the chats are research first and framing second. He learns where his work really helps (and where it doesn't), and the company gets a fuller picture than his own numbers can give. Numbers he has measured alone only show half the picture. What people say, with names and dates, shows the rest. And he never has to present beyond what he can prove, because every claim carries its tag.
 
 **Steps:**
-1. Book the chat as a normal catch-up: "I'm pulling together what the CRM / Lupa / order agent has changed, and I'd like your view." No pitch, no favour asked.
+1. Book the chat as a normal catch-up: "I'm looking at what the CRM / Lupa / order agent has changed, and I'd like your view so I can share what I learn with the company." No pitch, no favour asked.
 2. Ask the questions below. Take notes with the template.
 3. Check anything they say against his own data (logs, invoices) before it goes in the boss update. If it matches, tag it [measured]. If not, tag it [reported].
 4. Ask one thing at the end: "Is it OK if I use your numbers in my update to [CEO / manager]?" Note the answer.
