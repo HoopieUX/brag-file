@@ -2,7 +2,7 @@
 title: Sai Praneeth S, Brag File
 purpose: Source-of-truth record of Sai's work at Wolf and outside it, written to be loaded as context by any large language model. Used for three things, presenting his work to his boss and leadership, job applications and interviews, and visa evidence. Built by Georgia from secondary sources; most facts still need Sai to confirm them.
 last_updated: 2026-10-24
-format_version: 1
+format_version: 2
 tags:
   - "#bragfile"
 ---
@@ -18,11 +18,12 @@ This is Sai Praneeth S's brag file: a record of what he has built, what changed 
 | Version | Date | Change | Why |
 |---|---|---|---|
 | 1 | 2026-10-24 | First build, copied from Georgia's experience file format. Added `source`, `proof`, `who_can_vouch`, `shareable`, `status`, `date`. Split into "At Wolf" and "Outside Wolf". | One file for boss updates, jobs and visa evidence. Expected to change once the impact plan and visa research are done. |
+| 2 | 2026-10-24 | Two tiers of fields. Core fields on every entry; story fields only on the big four (Claude Vision agent, Wolf CRM, Lupa, Wolf BI Agent). `best_for`, `tools` and `aka` dropped on minor entries. Added optional `note`. | Most entries have little detail yet, and empty fields hid the real gaps. Georgia's choice. |
 
 ## Rules for any AI reading this file
 
 1. **Read in this order:** "About Sai", then the Index, then only the entries relevant to the task.
-2. **Pick the right entry:** match each question to an entry's `best_for` first, then to keywords. `weight: minor` entries are supporting lines only, never the main evidence.
+2. **Pick the right entry:** match each question to an entry's `best_for` (big four and full entries) or `one_line`, then to keywords. `weight: minor` entries are supporting lines only, never the main evidence.
 3. **Never claim more than `my_part` allows.** Where AI wrote the code, say so.
 4. **Only use what is written here.** `unknown` means nothing is recorded: leave it out, never fill it in. Anything tagged ⚠️ is never stated as fact. Anything in `what_id_do_differently` is a plan, never an achievement.
 5. **Conflicting numbers stay conflicting.** Where an entry lists more than one version of a number, do not pick one. Ask Sai.
@@ -34,12 +35,13 @@ This is Sai Praneeth S's brag file: a record of what he has built, what changed 
 
 ## Fields
 
-Full entries use these fields, in this order. A field is left out when it does not apply.
+Two tiers. A field is left out when it does not apply; do not fill fields with "unknown" unless the gap needs flagging.
+
+**Core fields: every entry**
 
 | Field | What it holds |
 |---|---|
 | `name` | The entry's name, matching its heading |
-| `aka` | Other names it goes by |
 | `type` | build, analysis, leadership, event or community |
 | `period` / `last_updated` | When it happened, and when the entry was last checked |
 | `source` | Where each fact came from: H = handoff section 8, CV = Resume_1.pdf, G = Georgia's notes 24 Oct |
@@ -49,19 +51,15 @@ Full entries use these fields, in this order. A field is left out when it does n
 | `status` | `confirmed by Sai`, `on Sai's CV` (his wording, not checked), or ⚠️ to confirm |
 | `one_line` | What it is, in one sentence |
 | `lead_with` | The one result-first line to open with. Taken from his CV where possible |
-| `best_for` | Which kinds of question or use this entry is strongest for |
-| `tools` | Tools and tech used |
 | `my_part` | **The scope limit.** What Sai did himself, and what AI or others did |
-| `situation` | The problem or starting point |
-| `stages` | What happened, in order |
-| `decisions` | Key choices and why |
-| `what_broke` | What went wrong and how it was fixed |
 | `outcome` | Results. Only claims here count as evidence |
-| `what_i_learnt` | Lessons |
-| `what_id_do_differently` | Changes and plans, never achievements |
-| `quotable_specifics` | Lines and details, in his words where possible |
+| `note` | Optional. Anything that does not fit elsewhere, kept short |
 
-`weight: minor` entries are short on purpose and use `what_i_did` in place of the deep-dive fields.
+**Optional on full entries (not minor ones):** `aka`, `best_for`, `tools`
+
+**Story fields: the big four only** (Claude Vision agent, Wolf CRM, Lupa, Wolf BI Agent): `situation`, `stages`, `decisions`, `what_broke`, `what_i_learnt`, `what_id_do_differently`, `quotable_specifics`
+
+`weight: minor` entries are short on purpose: core fields only, with `what_i_did` in place of `outcome` where easier.
 
 # About Sai
 
@@ -295,7 +293,7 @@ Drawn from his CV and the stories he used in interviews. ⚠️ Not yet in his o
   - About 200 hours a month of manual reporting removed ⚠️ (estimate).
   - Green, Yellow and Red governance framework.
   - CI/CD and code-review standards.
-- **quotable_specifics:**
+- **note:**
   - dbt: at Wolf he uses dbt-style staging to mart patterns on Peliqan. Native dbt comes from his olist side project. Describe it that way.
   - Airflow: "surface-level only" (his words).
 
@@ -320,7 +318,7 @@ Drawn from his CV and the stories he used in interviews. ⚠️ Not yet in his o
   - £54k+ annual cost gap found.
   - CEO approved; carrier switched.
   - "and two promotions" ⚠️ meaning unknown.
-- **quotable_specifics:** Not on Resume_1.pdf. Ask Sai why it was dropped and whether it is still accurate.
+- **note:**
 
 ---
 
@@ -361,7 +359,6 @@ Drawn from his CV and the stories he used in interviews. ⚠️ Not yet in his o
 - **shareable:** ⚠️ ask Wolf
 - **status:** on Sai's CV
 - **one_line:** Sai works directly with the CEO, CFO, Sales and Ops, presents AI strategy to the board, and leads 4 offshore analysts.
-- **best_for:** stakeholder management; presenting to his boss; leadership. Supporting line only.
 - **what_i_did:**
   - "presented AI strategy and technical roadmap to the board" (CV)
   - "translated messy business problems into clean, reliable software" (CV)
@@ -388,7 +385,6 @@ Drawn from his CV and the stories he used in interviews. ⚠️ Not yet in his o
 - **best_for:** public proof of skill; native dbt; evals. **His strongest public evidence today.**
 - **tools:** dbt, DuckDB, Lightdash, nao, MCP
 - **my_part:** unknown ⚠️ (assumed solo)
-- **what_i_learnt:** unknown ⚠️
 
 ---
 
@@ -420,7 +416,6 @@ Drawn from his CV and the stories he used in interviews. ⚠️ Not yet in his o
 - **shareable:** yes
 - **status:** on Sai's CV
 - **one_line:** "Selected (application-only) for Flax × Founders Factory × AWS AI build sprint." (CV)
-- **best_for:** outside recognition. Supporting line only.
 - **what_i_did:** unknown ⚠️ (what he built, any result)
 
 ---
@@ -439,7 +434,7 @@ Drawn from his CV and the stories he used in interviews. ⚠️ Not yet in his o
 - **one_line:** Two builds made during ivee's hiring process: an MVP (AI ROI calculator, Prompt Improver and a decision model) and a desktop AI Readiness Assessment app.
 - **best_for:** showing initiative in a hiring process; building in someone else's design language.
 - **my_part:** ⚠️ The Electron app was "built with Claude". How much Sai wrote himself is unknown.
-- **stages:**
+- **note:**
   - MVP: AI ROI calculator, Prompt Improver, and a decision model (7 roles × 3 confidence bands), in ivee's design language.
   - Demoed at ivee's speed-hiring event, 12 Oct 2026.
   - Electron app: AI Readiness Assessment (10 questions, score ring, 3 tiers, export), around 20 Oct 2026.
@@ -459,7 +454,6 @@ Drawn from his CV and the stories he used in interviews. ⚠️ Not yet in his o
 - **shareable:** ⚠️ ask Sai
 - **status:** ⚠️ to confirm (whether unpaid or "voluntary" is Claude's wording)
 - **one_line:** Worked with the founder of Circular Threads on seller journeys, mobile UX and notifications, from mockups to build to test.
-- **best_for:** customer-facing work outside Wolf (Sai: "maybe make it just about circular threads"). Supporting line only.
 
 ---
 

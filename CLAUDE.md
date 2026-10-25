@@ -49,7 +49,7 @@ Sai's CV is in `sources/Resume_1.pdf`. It contains his personal email, so the re
 
 ## Brag file format
 
-- Copied from Georgia's experience file. Fields and their order are in the file's Fields table.
+- Copied from Georgia's experience file, then slimmed to two tiers (format version 2): core fields on every entry; story fields only on the big four (Claude Vision agent, Wolf CRM, Lupa, Wolf BI Agent). Fields are in the file's Fields table.
 - The format **will change** as the impact plan and visa work show what each use needs. Record every change in the file's "Format log" table, with why.
 - Do not build the auto-add skill until the format settles.
 
