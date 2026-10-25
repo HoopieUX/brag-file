@@ -13,7 +13,7 @@ last_updated: 2026-10-24
 **Steps:**
 1. Fix the estimates first (section 1).
 2. Fill in the table for each project, one at a time (section 2).
-3. Hold short conversations with the people his work affects (section 3). The point is to gain insight: how his work lands for them, and what the real numbers are. Then he presents what he learnt to the company, with every claim tagged.
+3. Hold short conversations with the people his work affects (section 3). It works both ways. He learns how his work lands and what the real numbers are; they get a say and see where it's heading. He then shares what he learnt with the company, with every claim tagged.
 4. Log new wins monthly with the template (section 4).
 5. Send his boss the one-page update each quarter (section 5).
 6. Optional: ask for a short letter from anyone who has already said something useful (section 6).
@@ -63,12 +63,12 @@ These numbers are on his CV or in his stories, but are estimates or have more th
 
 ## 3. Impact conversations
 
-**What to do:** a 20 to 30 minute chat with each person his work affects. The aim is to gain insight into the impact from their side, check numbers and gather data. He then presents what he found to the company (his manager, the CEO, the board), so the update is built on evidence, not on his say-so.
+**What to do:** a 20 to 30 minute chat with each person his work affects. It is a two-way exchange. He gets their view of the impact, checks numbers and gathers data. They get to share what works and what doesn't, and hear what he plans next. He then shares what he found with the company (his manager, the CEO, the board), so the update is built on evidence, not on his say-so.
 
-**Why it matters:** the chats are research first and framing second. He learns where his work really helps (and where it doesn't), and the company gets a fuller picture than his own numbers can give. Numbers he has measured alone only show half the picture. What people say, with names and dates, shows the rest. And he never has to present beyond what he can prove, because every claim carries its tag.
+**Why it matters:** it is useful for both sides. For Sai, he learns where his work really helps (and where it doesn't), which shapes what he builds next. For the company, the people using his work are heard, and leadership gets a fuller picture than his own numbers can give. Numbers he has measured alone only show half the picture. What people say, with names and dates, shows the rest. And he never has to present beyond what he can prove, because every claim carries its tag.
 
 **Steps:**
-1. Book the chat as a normal catch-up: "I'm looking at what the CRM / Lupa / order agent has changed, and I'd like your view so I can share what I learn with the company." No pitch, no favour asked.
+1. Book the chat as a normal catch-up: "I'm looking at what the CRM / Lupa / order agent has changed. I'd like your view on what's working and what isn't, and I'll share what I learn with the company." No pitch, no favour asked.
 2. Ask the questions below. Take notes with the template.
 3. Check anything they say against his own data (logs, invoices) before it goes in the boss update. If it matches, tag it [measured]. If not, tag it [reported].
 4. Ask one thing at the end: "Is it OK if I use your numbers in my update to [CEO / manager]?" Note the answer.
@@ -91,6 +91,7 @@ These numbers are on his CV or in his stories, but are estimates or have more th
 - What still doesn't work well?
 - What's the number you would trust if the CEO asked you?
 - Is there anything you would show someone to prove it helped?
+- What should I build or fix next? (Their answer helps him; asking shows they are heard.)
 
 **Notes template (one per conversation):**
 
