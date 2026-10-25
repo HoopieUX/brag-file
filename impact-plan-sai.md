@@ -112,12 +112,3 @@ Next quarter
 What I need from you
 - [Decision, access or support]
 ```
-
----
-
-## Questions for Sai about this plan
-
-1. Where does Wolf keep each of these: AWS bills, old SaaS invoices, carrier invoices, agent logs, CRM login data?
-2. Who did the manual order processing and manual reporting before? Could they confirm the old times?
-3. Which numbers can you share outside Wolf, and which need permission?
-4. Would the CEO, CFO and directors write letters?

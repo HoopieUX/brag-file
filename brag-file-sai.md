@@ -11,7 +11,7 @@ tags:
 
 This is Sai Praneeth S's brag file: a record of what he has built, what changed because of it, and what proof exists. It is not a CV; it holds the depth behind the CV lines.
 
-**Read this first:** this file was built from a summary of Sai's own chat with Claude (June to October 2026) and his CV. Sai has not checked it yet. Anything tagged ⚠️ must not be used as fact until he confirms it. Questions for Sai are at the end.
+**Read this first:** this file was built from a summary of Sai's own chat with Claude (June to October 2026) and his CV. Sai has not checked it yet. Anything tagged ⚠️ must not be used as fact until he confirms it. Questions for Sai are kept in `questions-for-sai.md`, not in this file.
 
 ## Format log
 
@@ -551,40 +551,3 @@ Not legal advice. Recorded now so nothing is lost; to be worked on later with an
   - His visa expiry date. ⚠️
   - Most of his strongest proof is internal to Wolf. Visa evidence usually needs things others can see: write-ups, recordings, letters, outside recognition. Every Wolf entry has a `shareable` flag for this.
   - Would his CEO write a letter? ⚠️
-
----
-
-# Questions for Sai
-
-Send this as one list. Short answers are fine.
-
-**Big ones**
-1. CRM saving: which is right? £45k/year, £25k/year (Salesforce), £20-25k, £20k, or "£10k+ operationally and £40k+ financially"? How was it worked out?
-2. CRM running cost: $100/month, $5/month or £700-800/year?
-3. Lupa's ~60% fewer data requests, and ~200 hours a month of reporting removed: measured or estimated?
-4. What can you show publicly from Wolf (screenshots, write-ups, demos)? Would your CEO write you a letter?
-5. Are you OK with interview feedback and company names being in this file?
-
-**Wolf work**
-6. Order agent: how often does it run? Is 96% "automation" or "success rate"? When did it go live?
-7. Is Wolf CMS the same thing as the CRM's consignment feature, or a separate app?
-8. Is "50+" daily CRM users, or Wolf CMS locations, or both?
-9. Postage: what were the "two promotions"? Why is the £54k result off your latest CV?
-10. Wolf BI Agent: is about 40% to 82-83% accuracy right? How was it measured?
-11. Who could vouch for each Wolf project in writing?
-12. What did you learn from building the CRM?
-13. Is the "How Sai works" section right? Want to put it in your own words?
-
-**Outside Wolf**
-14. August talk: event name, date, link or recording?
-15. AWS build sprint: what did you build, and any result?
-16. What is Bytes & Beyond? Any links?
-17. Did you build and run the Prompt Library, or only get Claude's scaffold?
-18. Links to the ivee MVP, the CRM MCP server on GitHub, and your LinkedIn posts?
-19. Is linkedin.com/in/saipraneeth your real LinkedIn?
-
-**About you**
-20. Degree and university?
-21. Wolf company size: 50 or 80 people? Did you join as a contractor?
-22. Have you used RAG in a real project? Where?
-23. Which visas have you held since you came to the UK, roughly when, and when does your current one expire? (For later; no need to rush.)

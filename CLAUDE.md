@@ -16,6 +16,7 @@ Georgia is the user. Sai is the subject. Georgia does not want to go back and fo
 | File | What it is |
 |---|---|
 | `brag-file-sai.md` | The brag file. Source of truth for Sai's work. |
+| `questions-for-sai.md` | Every open question for Sai, in one list. Send once, update when he answers. |
 | `impact-plan-sai.md` | How Sai gathers real metrics at Wolf (step 3, first draft) |
 | `visa-routes.md` | Visa route research (step 4, not built yet) |
 | `visa-rubric-sai.md` | Evidence graded against the chosen route (step 5, waits for a route) |
@@ -45,7 +46,7 @@ Sai's CV is in `sources/Resume_1.pdf`. It contains his personal email, so the re
 - **Status values:** `confirmed by Sai`, `on Sai's CV` (his wording, not checked), `⚠️ to confirm`.
 - **Every Wolf entry has a `shareable` flag.** Wolf work may be confidential; check before anything goes public.
 - **AI-built work says so.** The TypeScript MCP server was built by AI; do not claim TypeScript fluency.
-- When Sai answers a question, update the entry, change its `status`, remove the question from "Questions for Sai", and bump `last_updated`.
+- When Sai answers a question, update the entry, change its `status`, move the question to "Answered" in `questions-for-sai.md`, and bump `last_updated`.
 
 ## Brag file format
 

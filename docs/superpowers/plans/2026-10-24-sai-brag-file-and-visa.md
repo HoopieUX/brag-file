@@ -51,7 +51,8 @@ Each task's checks below cover these.
 |---|---|
 | `sources/handoff-sai-1.md` | The handoff, saved as the spec |
 | `sources/README.md` | Lists which source files exist and which are kept out of git |
-| `brag-file-sai.md` | Sai's brag file: At Wolf, Outside Wolf, Questions for Sai |
+| `brag-file-sai.md` | Sai's brag file: At Wolf, Outside Wolf |
+| `questions-for-sai.md` | All open questions for Sai, in one list to send once |
 | `impact-plan-sai.md` | How Sai gathers real metrics and proof at Wolf |
 | `visa-routes.md` | Plain-English comparison of visa routes, with sources |
 | `visa-rubric-sai.md` | Grades his evidence against the chosen route; gap list |
@@ -88,14 +89,14 @@ Expected: no output.
 
 **Interfaces:**
 - Consumes: `sources/handoff-sai-1.md` section 8, Resume_1.pdf, georgia-experience-file.md (format only).
-- Produces: `brag-file-sai.md` with headings `# At Wolf`, `# Outside Wolf`, `# Questions for Sai`. Each entry has a `## <name>` heading.
+- Produces: `brag-file-sai.md` with headings `# At Wolf`, `# Outside Wolf`. Questions live in `questions-for-sai.md`. Each entry has a `## <name>` heading.
 
 - [ ] **Step 1:** Copy the front matter, "Rules for any AI reading this file", Fields table and Index pattern from Georgia's file. Change "Georgia" to "Sai". Add a line to the purpose: used for presenting to his boss, job applications and visa evidence.
 - [ ] **Step 2:** Add six fields to the Fields table and to every entry, after `last_updated`: `source`, `proof` (link, letter, recording, number or none), `who_can_vouch`, `shareable` (can it be shown publicly), `status` (confirmed by Sai, on Sai's CV, or ⚠️ to confirm), `date`.
 - [ ] **Step 3:** Write the "At Wolf" entries, in this order: Claude Vision order ingestion agent; Wolf CRM; Lupa; Wolf BI Agent; Data platform and ELT pipelines; £54k postage saving; Wolf CMS; Stakeholder and board work. Use section 8 values exactly.
 - [ ] **Step 4:** Write the "Outside Wolf" entries: olist-project-agentic; Circular Threads; ivee MVP and Electron app; Public talk (August 2026); Flax × Founders Factory × AWS sprint; Community and events (`weight: minor`); Bytes & Beyond (`weight: minor`, ⚠️). Prompt Library and Bug Burger Joint go in only as ⚠️ minor entries.
 - [ ] **Step 5:** Add an "Employer feedback" minor entry with the interview table, tagged ⚠️ consent needed.
-- [ ] **Step 6:** Write "Questions for Sai": every ⚠️ item as a short plain question, grouped by entry, so Georgia can send it as is.
+- [ ] **Step 6:** Write `questions-for-sai.md` (not inside the brag file): every ⚠️ item as a short plain question, grouped, so Georgia can send it as is.
 - [ ] **Step 7: Check**
 
 Run: `grep -c '⚠️' brag-file-sai.md; grep -n "$(printf '\342\200\224')" brag-file-sai.md; grep -n '@' brag-file-sai.md; grep -n '£10k+\|£45k\|£25K\|£20k' brag-file-sai.md`
